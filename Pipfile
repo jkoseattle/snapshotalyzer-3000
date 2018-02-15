@@ -8,11 +8,13 @@ name = "pypi"
 [packages]
 
 "boto3" = "*"
+click = "*"
 
 
 [dev-packages]
 
 ipython = "*"
+click = "*"
 
 
 [requires]
